@@ -1,2 +1,7 @@
-# learn28days-rust
-Learn 28 Days: Rust. Learning through 28 days (4 weeks) with each first 5 days learning something new with last 2 days creating some mini project.
+# Learn 28 Days: Rust
+
+28 Days to learn Rust, popular progamming language.
+
+## How it works
+
+In first five days every week, I learn everything about Rust, from the syntax, implementation, to how-it-works. Last two days, I create some mini program (mini project) from what I learn.
